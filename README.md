@@ -12,7 +12,7 @@ git clone https://github.com/OneRandom1509/dino-automator
 pip install -r requirements.txt
 ``` 
 
-3. Run the `script.py` file and go to your `chrome://dino` page to see the magic!!
+3. Run the `script.py` file and go to your `chrome://dino` page to see the magic!! If you want to quit the script, simply press the `q` key in your keyboard
 
 P.S You have a buffer time of 3 seconds by default to switch to your browser window :)
 
