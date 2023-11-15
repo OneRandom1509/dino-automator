@@ -13,16 +13,14 @@ def get_pixel(image, x, y):
 
 def start(): 
 
-	# set size of the image to be taken 
 	x, y, width, height = 0, 102, 1920, 872
 
-	# calculating time 
 	jumping_time = 0
 	last_jumping_time = 0
 	current_jumping_time = 0
 	last_interval_time = 0
 
-	y1, y2, x1, x2 = 590, 550, 540, 600
+	y1, y2, x1, x2 = 590, 550, 540, 590
 
 	time.sleep(3) 
 	print("Started!")
