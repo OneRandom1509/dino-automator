@@ -7,7 +7,7 @@ A simple python script to automate chrome's dino game. This was written for as p
 git clone https://github.com/OneRandom1509/dino-automator
 ```
 
-2. Navigate to the cloned repository's directory and run this python command to install all the dependencies
+2. Navigate to the cloned repository's directory in your terminal and run this python command to install all the dependencies
 ```
 pip install -r requirements.txt
 ``` 
