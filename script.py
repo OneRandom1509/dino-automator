@@ -32,7 +32,6 @@ def start():
 			break
 
 		sct_img = gui.screenshot(region=(x, y, width, height)) 
-		sct_img.save("dino.jpg") 
 
 		bg_color = get_pixel(sct_img, 100, 100) 
 
