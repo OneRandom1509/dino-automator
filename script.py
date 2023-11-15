@@ -50,10 +50,7 @@ def start():
 			if x2 >= width: 
 				x2 = width 
 
-		# get the last jump 
 		last_jumping_time = jumping_time 
-		# get the time between the last jump and the previous one 
 		last_interval_time = interval_time 
-
 
 start() 
