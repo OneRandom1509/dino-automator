@@ -1,6 +1,5 @@
 import pyautogui as gui 
 import keyboard 
-from PIL import Image, ImageGrab 
 import time 
 import math 
 
