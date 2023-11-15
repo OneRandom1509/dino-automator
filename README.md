@@ -1,5 +1,5 @@
 # dino-automator
-A simple python script to automate chrome's dino game. This was written for as part of IEEE ComSoc's recruitment process.
+A simple python script using `pyautogui` and `keyboard` modules to automate chrome's dino game. This was written for as part of IEEE ComSoc's recruitment process.
 
 ## Getting Started
 1. Clone this repository using the git clone command 
